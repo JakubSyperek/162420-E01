@@ -1,20 +1,14 @@
 package pl.edu.uwm.wmii.syperekjakub.laboratorium00.Z1;
 
 public class Z1 {
-    public class xyz{
-        void ArrayUtil() {
+    public class ArrayUtil{
 
-
-        }
-        void jestPalindromem(){
+        void jestPalindromem(int[] x){
 
         }
         interface Comparable{
 
         }
-
-
-
 
     }
     public class Integer{
@@ -25,7 +19,7 @@ public class Z1 {
     }
 
     public static void main(String[] args) {
-        //int jestPalindromem(int[])
+
 
     }
 }
